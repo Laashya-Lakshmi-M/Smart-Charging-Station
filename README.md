@@ -3,6 +3,10 @@ Arduino-based wireless EV charging system
 
 🚗💡 A simple and cost-effective prototype for wireless EV charging using inductive coils and  powered by Arduino.
 
+## 📸 Project Image
+
+![Smart EV Charging System Setup](Copy%20of%20IMG_20241027_175018.jpg)
+
 ## 🔧 Features
 - Wireless charging using copper coils.
 - IR sensor detects car alignment above the charging pad.
